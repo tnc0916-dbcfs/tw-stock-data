@@ -1,0 +1,4 @@
+2026-11-03 11:10:25 REQ1 https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?date=20261102&response=json
+2026-11-03 11:10:25 被擋或連線失敗，停止所有請求：request error: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1085)>
+2026-11-03 11:10:41 REQ1 https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?date=20261102&response=json
+2026-11-03 11:10:41 被擋或連線失敗，停止所有請求：request error: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1085)>
