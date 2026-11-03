@@ -4,3 +4,15 @@
 2026-11-03 11:10:41 被擋或連線失敗，停止所有請求：request error: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1085)>
 2026-11-03 11:14:32 REQ1 https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?date=20261102&response=json
 2026-11-03 11:14:32 被擋或連線失敗，停止所有請求：request error: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1085)>
+2026-11-03 11:15:02 REQ1 https://www.twse.com.tw/rwd/zh/afterTrading/FMTQIK?date=20261102&response=json
+2026-11-03 11:15:18 REQ2 https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20261101&stockNo=6831&response=json
+2026-11-03 11:15:28 REQ3 https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20261101&stockNo=2330&response=json
+2026-11-03 11:15:32 REQ4 https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20261101&stockNo=6139&response=json
+2026-11-03 11:15:37 REQ5 https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20261101&stockNo=6196&response=json
+2026-11-03 11:15:42 REQ6 https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20261101&stockNo=2303&response=json
+2026-11-03 11:15:46 REQ7 https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20261101&stockNo=2324&response=json
+2026-11-03 11:16:02 REQ8 https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20261101&stockNo=0050&response=json
+2026-11-03 11:16:07 REQ9 https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20261101&stockNo=00953B&response=json
+2026-11-03 11:16:12 REQ10 https://www.twse.com.tw/rwd/zh/fund/T86?date=20261102&selectType=ALL&response=json
+2026-11-03 11:16:28 REQ11 https://www.twse.com.tw/rwd/zh/fund/BFI82U?type=day&dayDate=20261102&response=json
+2026-11-03 11:16:43 REQ12 https://www.twse.com.tw/rwd/zh/marginTrading/MI_MARGN?date=20261102&selectType=ALL&response=json
